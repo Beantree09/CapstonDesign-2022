@@ -2,6 +2,7 @@
 Yeungnam Univ. 2022 CapstonDesign
 
 2022 영남대학교 캡스톤 디자인 독거노인 돌보미 로봇 "보미"에 탑제되는 Software
+팀원 : 김민관, 김재현, 신대홍
 
 <br/>
 
